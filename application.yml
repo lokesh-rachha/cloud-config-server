@@ -1,7 +1,6 @@
-server:
-  servlet:
-    context-path: /config-service
-  port: 8888
+society:
+  societies: Melange,Sangria,Sunway,Spledour,Mystic,Fusion Towers
+  
 eureka:
   client:
     service-url:
