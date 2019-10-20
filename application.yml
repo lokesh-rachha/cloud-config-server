@@ -1,6 +1,3 @@
-society:
-  societies: Melange,Sangria,Sunway,Spledour,Mystic,Fusion Towers
-  
 eureka:
   client:
     service-url:
